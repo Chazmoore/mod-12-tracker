@@ -18,6 +18,10 @@ https://www.mysqltutorial.org/
 "PHP & MYSQL: server-side web development"- Jon Duckett 
 https://youtu.be/ER8oKX5myE0
 
+# Deploy/links
+https://drive.google.com/file/d/1ntS_7NmYNmtvF1teoLudD9xMmS2YWb6f/view
+https://github.com/Chazmoore/mod-12-tracker.git
+
 # Contact
 moore.lachaznie@gmail.com
 https://github.com/Chazmoore/
